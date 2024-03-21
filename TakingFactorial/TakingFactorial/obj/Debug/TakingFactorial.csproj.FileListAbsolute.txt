@@ -1,0 +1,7 @@
+C:\Users\Alperen Şensoy\Documents\c#\TakingFactorial\TakingFactorial\bin\Debug\TakingFactorial.exe.config
+C:\Users\Alperen Şensoy\Documents\c#\TakingFactorial\TakingFactorial\bin\Debug\TakingFactorial.exe
+C:\Users\Alperen Şensoy\Documents\c#\TakingFactorial\TakingFactorial\bin\Debug\TakingFactorial.pdb
+C:\Users\Alperen Şensoy\Documents\c#\TakingFactorial\TakingFactorial\obj\Debug\TakingFactorial.csproj.AssemblyReference.cache
+C:\Users\Alperen Şensoy\Documents\c#\TakingFactorial\TakingFactorial\obj\Debug\TakingFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Şensoy\Documents\c#\TakingFactorial\TakingFactorial\obj\Debug\TakingFactorial.exe
+C:\Users\Alperen Şensoy\Documents\c#\TakingFactorial\TakingFactorial\obj\Debug\TakingFactorial.pdb
