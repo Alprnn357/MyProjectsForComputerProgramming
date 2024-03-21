@@ -1,0 +1,7 @@
+C:\Users\Alperen Şensoy\Documents\c#\ClassesCsharp\ClassesCsharp\bin\Debug\ClassesCsharp.exe.config
+C:\Users\Alperen Şensoy\Documents\c#\ClassesCsharp\ClassesCsharp\bin\Debug\ClassesCsharp.exe
+C:\Users\Alperen Şensoy\Documents\c#\ClassesCsharp\ClassesCsharp\bin\Debug\ClassesCsharp.pdb
+C:\Users\Alperen Şensoy\Documents\c#\ClassesCsharp\ClassesCsharp\obj\Debug\ClassesCsharp.csproj.AssemblyReference.cache
+C:\Users\Alperen Şensoy\Documents\c#\ClassesCsharp\ClassesCsharp\obj\Debug\ClassesCsharp.csproj.CoreCompileInputs.cache
+C:\Users\Alperen Şensoy\Documents\c#\ClassesCsharp\ClassesCsharp\obj\Debug\ClassesCsharp.exe
+C:\Users\Alperen Şensoy\Documents\c#\ClassesCsharp\ClassesCsharp\obj\Debug\ClassesCsharp.pdb
